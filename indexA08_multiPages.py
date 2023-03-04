@@ -7,6 +7,9 @@ Création d'une application web avec plusieurs pages (menu) 🫢
 Il suffit tout simplement de créer un sous-dossier dans le repértoire 
 où se trouve le fichier principal .py 🤣🤣🤣
 
+... si on veut partager le fichier, il faut recourir à GitHub
+-> il faut donc savoir créer des sous-répertoires dans GitHub 🤔
+
 Création également d'un sous-menu
 
 Date : 04-03-23
