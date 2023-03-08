@@ -9,6 +9,9 @@ https://towardsdatascience.com/7-reasons-why-you-should-use-the-streamlit-aggrid
 Cette librairie est similaire aux graphiques générés à partir 
 de la librairie Plotly : les DF sont manipulables
 
+Problématique avec cette librairie :
+Au-delà de 500 lignes, il y a un problème de chargement de la DF 😭
+
 Date : 08-03-2023
 """
 
