@@ -36,6 +36,14 @@ Pour relancer le navigateur internet :
 -> relancer à nouveau le terminal pour être dans l'environnement virtuel
 -> puis saisir dans la console : streamlit run NomFichier.py
 
+-------------------------------------------------------------------------
+
+Il n'est pas possible d'intégrer automatiquement dans la page web
+une DF issue de la librairie Polars
+https://github.com/streamlit/streamlit/issues/4212
+Pour ce faire, il faut convertir la DF sous format 'Pandas',
+avec l'instruction suivante : my_df.to_pandas()
+
 Date : 05-01-23
 """
 
