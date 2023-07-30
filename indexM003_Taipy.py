@@ -30,5 +30,4 @@ def on_change(state, var_name, var_value):
         state.text = ""
         return
 
-
 Gui(page).run()
