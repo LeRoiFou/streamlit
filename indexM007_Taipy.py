@@ -1,8 +1,6 @@
 """
 Lien : https://www.taipy.io/project/crea    ting-a-data-dashboard/
 
-00:08:15
-
 Date : 01-08-23
 """
 
